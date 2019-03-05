@@ -1,2 +1,2 @@
 # Django_notes
-Django项目
+Django学习笔记
